@@ -118,7 +118,6 @@ ul{
     column-gap: 16px;
 }
 .column{
-    /* border: 1px solid black; */
     border-bottom: 62px solid  #D9D9D9;
     width: 411px; 
     height: 400px;
@@ -181,7 +180,6 @@ h3{
     padding-top: 128px;
 }
 .row2{
-    border: 1px solid black;
     display: flex;
     justify-content: space-between;
     width: 100%;
